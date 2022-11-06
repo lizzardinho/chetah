@@ -37,7 +37,7 @@ const config = {
   },
 
   /**** SET TO TRUE IF YOU WANT TO USE A WEBHOOK ****/
-  webHook: true,
+  webHook: false,
 
   /**** PUT YOUR WEBHOOK URL HERE IF webHook SET TO TRUE****/
   webhookURL:
